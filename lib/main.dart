@@ -23,8 +23,7 @@ class _MyAppState extends State<MyApp> {
     return MaterialApp(
       home: Scaffold(
         appBar: AppBar(
-          ti
-            tle: Text("Xylophone"),
+          title: Text("Xylophone"),
         ),
         body: Column(
           crossAxisAlignment: CrossAxisAlignment.stretch,
